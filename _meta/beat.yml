@@ -1,0 +1,7 @@
+################### Pvbeat Configuration Example #########################
+
+############################# Pvbeat ######################################
+
+pvbeat:
+  # Defines how often an event is sent to the output
+  period: 1s
